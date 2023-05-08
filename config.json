@@ -1,0 +1,11 @@
+{
+    "match":[",Division,EFL,Regionalliga,League,Liga,Lig,J-League,K-League,Apertura,MLS,Apertura,Premiership,Allsvenskan,Premier,Championship,Serie,Deild,Youth,Eerste Divisie,Primera,Segunda,Bundesliga,Regionalliga,Oberliga,Ligue,Ekstraklasa,U20,Cup,Libertadores"],
+    "attack":[0],
+    "dangerattak":[0],
+    "corner":[3],
+    "shot":[0],
+    "starttime":[5],
+    "endtime":[15],
+    "team1_score":[2],
+    "team2_score":[2]
+}

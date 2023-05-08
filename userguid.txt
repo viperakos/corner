@@ -1,0 +1,10 @@
+Please install python 3.7(32bit)
+	Please use reference this url
+	https://phoenixnap.com/kb/how-to-install-python-3-windows
+	**Please install 32bit..
+Please install selenium package
+	Please see this url.(https://pypi.org/project/selenium/)
+		pip install selenium : command prompt
+	
+To run bot :  Double click run.bat
+To quit bot :  Double click quit.bat
